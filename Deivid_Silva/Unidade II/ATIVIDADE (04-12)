@@ -1,0 +1,22 @@
+Consulte o livro de Kurose para responder às questões 1, 2 (seção 8.1), 18 (seção 8.3), 21 (seção 8.4). Questões dissertativas 1, 3 e 4 do capítulo 8.
+
+Questão 1) Confidencialidade: Somente o remetente e o destinatário pretendido devem poder entender o conteúdo da mensagem transmitida. Já a integridade: Garantir que o conteúdo da mensagem não seja alterado. 
+Não é possível ter confidencialidade sem integridade, pois a definição de confidencialidade remete a ideia de que a mensagem tem que ser vista e/ou alterada somente pelo remetente e o destinatário.
+
+Questão 2)  Computador e ponto de acesso (Roteador), Servidor e Modem e usuários e sistemas online.
+
+Questão 18) O ataque do "Homem do meio", ocorre quando o atacante fica entre a comunicação de dois dispositivos em uma rede, e, dessa forma, capta as informações que estão sendo passadas e as encaminha como num fluxo normal, assim o atacante não é percebido.
+O ataque pode ocorrer com chaves púbicas, pois o atacante consegue repassar tudo que recebe, dos dois dispositivos, normalmente.
+
+Questão 21)
+
+
+
+
+Questões dissertativas:
+
+Questão 1) O intruso conseguiria criar páginas falsas e "forçar" seu acesso, pois com o controle do DNS pode redirecionar os usuários para onde quiser. Com essas páginas falsas conseguiria roubar.
+
+
+
+Questão 2) 
