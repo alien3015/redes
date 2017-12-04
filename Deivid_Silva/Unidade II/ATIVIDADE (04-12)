@@ -17,6 +17,8 @@ Questões dissertativas:
 
 Questão 1) O intruso conseguiria criar páginas falsas e "forçar" seu acesso, pois com o controle do DNS pode redirecionar os usuários para onde quiser. Com essas páginas falsas conseguiria roubar.
 
+Questão 2) Kerberos é o nome de um Protocolo de rede, que permite comunicações individuais seguras e identificadas, em uma rede insegura.
 
+O sistema de confiança tripla, utilizada pelo Kerberos, é chamado de Centro de Distribuição de Chaves (CDC). O CDC mantém um banco de dados de chaves secretas; toda entidade de rede – tanto clientes como servidores – compartilham uma chave secreta que é apenas conhecido por eles mesmos e pelo CDC.
 
-Questão 2) 
+Questão 4)Diversos protocolos podem ser utilizados para a realização de comunicação em botnets. Dentre os mais conhecidos temos o Internet Relay (IRC)
